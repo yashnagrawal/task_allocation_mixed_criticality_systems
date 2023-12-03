@@ -1,0 +1,5 @@
+Core ID,Core Type,Utilization,Tasks IDs
+0,non_shutdownable,0.9318336158576316,"[7, 1, 8]"
+1,non_shutdownable,0.9571296815742754,"[9, 0, 5]"
+2,shutdownable,0.7935124514096823,"[4, 6]"
+3,shutdownable,0.6286814060955246,"[3, 2]"
